@@ -1,9 +1,5 @@
-# twitter_feed
+# twitter-feed-django
 This is a repository for a web application developed with Django
-
-### Features
-1. **Local Authentication** using email and password with [allauth](https://pypi.org/project/django-allauth/)
-2. **Rest API** using [django rest framework](http://www.django-rest-framework.org/)
 
 ### Recommended Installation
 1. [Postgresql](https://www.postgresql.org/download/)
