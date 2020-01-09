@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "94b5ae1d1ac3735f3aea62f52bf82b05a7dedf269b9c0add394edf78624c4694"
+            "sha256": "d5ce7bcff85d0c7c1b6a53bc938256eb74ec4009809615bad70f9278851b39e3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,14 +16,6 @@
         ]
     },
     "default": {
-        "appnope": {
-            "hashes": [
-                "sha256:5b26757dc6f79a3b7dc9fab95359328d5747fcb2409d331ea66d0272b90ab2a0",
-                "sha256:8b995ffe925347a2138d7ac0fe77155e4311a0ea6d6da4f5128fe4b3cbe5ed71"
-            ],
-            "markers": "sys_platform == 'darwin'",
-            "version": "==0.1.0"
-        },
         "backcall": {
             "hashes": [
                 "sha256:38ecd85be2c1e78f77fd91700c76e14667dc21e2713b63876c0eb901196e01e4",
@@ -175,7 +167,6 @@
                 "sha256:0f4bcf18293fb666df8511feec0403bdb7e061a5842ea6e88a3177b0ceb34ead",
                 "sha256:387686dd7fc9caf29d2fddcf3116c4b07a11d9025701d220c589a430b0171d8a"
             ],
-            "markers": "python_version >= '3.4'",
             "version": "==7.11.1"
         },
         "ipython-genutils": {
@@ -437,11 +428,11 @@
         },
         "waitress": {
             "hashes": [
-                "sha256:c74fa1b92cb183d5a3684210b1bf0a0845fe8eb378fa816f17199111bbf7865f",
-                "sha256:d00e6c533c0fba6b3cbc7f1f1fcf037c84ee47b3065ce20c2c2d55e3eaf3b063"
+                "sha256:67a60a376f0eb335ed88967c42b73983a58d66a2a72eb9009a42725f7453b142",
+                "sha256:cbf1c62fc41393a6f27cb78483f8f6e252630a3598984668244b7bf4e35856f1"
             ],
             "index": "pypi",
-            "version": "==1.0.2"
+            "version": "==1.4.2"
         },
         "wcwidth": {
             "hashes": [
